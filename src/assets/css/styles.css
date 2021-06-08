@@ -1,0 +1,68 @@
+/* 'xs': 'only screen and ( min-width: 480px)',
+'sm': 'only screen and ( min-width: 768px)',
+'md': 'only screen and ( min-width: 992px)',
+'lg': 'only screen and ( min-width: 1200px)', */
+
+@media screen and (max-width: 1920px){
+  .container .tagMakeBox .textarea .icontent{
+      width: 600px !important;
+    }
+}
+
+
+@media screen and (max-width: 1780px) {
+
+  .container .tagMakeBox .textarea .icontent{
+      width: 400px !important;
+    }
+
+}
+@media screen and (max-width: 1580px) {
+
+  .container .tagMakeBox .textarea .icontent{
+      width: 300px !important;
+    }
+
+}@media screen and (max-width: 1480px) {
+
+  .container .tagMakeBox .textarea .icontent{
+      width: 280px !important;
+    }
+
+}
+@media screen and (max-width: 1350px){
+  .container .tagMakeBox .textarea .icontent{
+      width: 220px !important;
+    }
+
+}
+@media screen and (max-width: 1290px){
+  .container .tagMakeBox .textarea .icontent{
+      width: 340px !important;
+    }
+  .textarea{
+    margin-top: 0 !important;
+  }
+
+}
+
+@media screen and (max-width: 1572px) {
+
+  .container .contentBox .iiiiBox{
+      width: 100% !important;
+      height: 800px !important;
+  }
+
+}
+
+@media screen and (max-width: 1200px){
+
+
+}
+@media screen and (max-width: 768px){
+ 
+
+}
+@media screen and (max-width: 480px){
+
+}
